@@ -1,0 +1,17 @@
+.addtobag{
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    outline: none;
+    background-color: white;
+    color: black;
+    margin-left: -12%;
+    margin-top: 15%;
+}
+.addtobag:hover{
+    background-color: black;
+    color: white;
+}
+.favoriteprice{
+    width: 15%;
+}

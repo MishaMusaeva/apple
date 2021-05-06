@@ -1,0 +1,63 @@
+.wrapper2{
+    position: absolute;
+    width: 90%;
+    height: 610px;
+    left: 5%;
+    top: 100px;
+    border-radius: 50px;
+    z-index: 10;
+    background-color: #66676c;
+    position: fixed;
+    box-shadow: 10px 150px 100px 100px rgb(0, 0, 0);
+}
+#wrapper2{
+    overflow-y: scroll;
+}
+#wrapper2::-webkit-scrollbar{
+ display: none;
+  }
+.modal1{
+    width: 90%;
+    height: 600px;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+.modal1 h2{
+    margin-left: 42%;
+    font-size: 30px;
+}
+.detail-card{
+    margin-top: 50px;
+ padding-bottom: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.detail-card1{
+    width: 350px;
+    height: 230px;
+    border-radius: 25px;
+    background-color: darkkhaki;  
+}
+.detail-card4{
+    margin-top: 100px;
+}
+.detail-card5{
+    margin-top: 100px;
+}
+.detail-card6{
+    margin-top: 100px;
+}
+.like{
+    margin-top: 240px;
+    margin-left: 65%;
+    width: 30px;
+    height: 30px;
+}
+.detail-card1 h3{
+
+    margin-top: -30px;
+    font-size: 23px;
+    margin-left: 25%;
+
+}

@@ -1,0 +1,104 @@
+.pay{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+
+}
+.payblock1{
+    height: 100px;
+    width: 30%;
+margin-left: 2%;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+margin-top: 5%;
+}
+
+.payblock2{
+    margin-top: 5%;
+    width: 80%;
+margin-left: 10%;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+.payline{
+    margin-left: -5%;
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+}
+.paylineblock1{
+    width: 30%;
+}
+.paylineblock2{
+    margin-left: 10%;
+    text-align: center;
+    width: 100%;
+}
+.paylineblock3{
+    text-align: center;
+margin-left: 1%;
+display: flex;
+width: 80%;
+justify-content: space-between;
+}
+.paylineblock4{
+margin-right: 20%;
+}
+.visa{
+    width: 150px;
+    height: 70px;
+    border-radius: 30px;
+    background-color: white;
+}
+.visap{
+    padding-top: 15%;
+    margin-left: 40%;
+    color: black;
+}
+.clientname{
+    border: 0px;
+    width: 300px;
+    height: 50px;
+    border-radius: 30px;
+    outline: none;
+
+}
+.clientcard{
+    border: 0px;
+    width: 120px;
+    height: 40px;
+    border-radius: 30px;
+    outline: none;
+}
+.payment{
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    outline: none;
+    background-color: white;
+    color: black;
+    margin-left: 5%;
+    margin-top: 5%;
+    border: 0px;
+}
+.payment:hover{
+    background-color: black;
+    color: white;
+}
+.gog{
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    outline: none;
+    background-color: white;
+    color: black;
+    margin-right: 2%;
+    margin-top: 3%;
+    border: 0px;
+}
+.gog:hover{
+    background-color: black;
+    color: white;
+}
